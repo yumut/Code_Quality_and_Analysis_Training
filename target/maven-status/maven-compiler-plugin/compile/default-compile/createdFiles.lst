@@ -1,0 +1,12 @@
+com\samples\scrap\MainClass.class
+com\sonar\bugs\Continent.class
+com\findbugs\examples\OfConcernRankBugs.class
+com\findbugs\examples\TroublingRankBugs.class
+com\samples\vulnerabilities\MyServlet.class
+com\sonar\bugs\SampleBugs.class
+com\findbugs\examples\CalendarYear.class
+com\samples\vulnerabilities\Passwords.class
+com\findbugs\examples\BigValues.class
+com\findbugs\examples\DepExample.class
+com\findbugs\examples\ScaryRankBugs.class
+com\samples\scrap\One.class
